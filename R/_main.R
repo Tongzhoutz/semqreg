@@ -5,6 +5,7 @@ main_model <- function(a,b,maxiter){
 for ( iter in 1:maxiter){
   print(iter)
 
+  
   for ( j in 2:draws){
     
   Matdraws <- matrix(NA,N,T)

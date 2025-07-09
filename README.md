@@ -1,7 +1,7 @@
 # semqreg
 
 **Non-Parametric Earnings-Dynamics Toolkit**  
-MIT-Licensed • Maintainer: Tong Zhou ( tongzhoutz [at] gmail )
+MIT-Licensed • Maintainer: Tong Zhou ( zhoutong.econ [at] gmail )
 
 ---
 
